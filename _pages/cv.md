@@ -13,20 +13,20 @@ redirect_from:
 Education
 ======
 * 2008 - 2016 Gymnasium Südstadt, Abitur
-* 2016 - 2019 Martin-Luther-Universität Halle-Wittenberg, Physics
+* 2016 - 2019 MLU Halle-Wittenberg, Physics
   * B.Sc. , grade: 1.5
-* since 2019 Technische Universität Dresden, Physics 
+* since 2019 TU Dresden, Physics 
 
 Work experience
 ======
 * 2017 - 2019 Student Assistant
-  * Martin-Luther-Universität Halle-Wittenberg
+  * MLU Halle-Wittenberg
   * tutor in experimental physics for medical students
   
 
 * since 2021 Student Assistant
-  * Technische Universität Dresden
-  * tutor in experimental physics for geography students
+  * TU Dresden
+  * tutor in experimental physics for geodesy students
   
   
 IT-Skills
