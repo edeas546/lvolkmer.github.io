@@ -37,6 +37,13 @@ IT-Skills
   * Fortran
 * Quantum ESPRESSO
 
+Language-Skills
+======
+* German (mother language)
+* English (B2)
+* Chinese (A1)
+
+
 Publications
 ======
   <ul>{% for post in site.publications %}
