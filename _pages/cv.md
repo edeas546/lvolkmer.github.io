@@ -9,32 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2008 - 2016 Gymnasium Südstadt, Abitur
+* 2016 - 2019 Martin-Luther-Universität Halle-Wittenberg, Physics
+  * B.Sc. , grade: 1.5
+* since 2019 Technische Universität Dresden, Physics 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2019 Student Assistant
+  * Martin-Luther-Universität Halle-Wittenberg
+  * tutor in experimental physics for medical students
   
-Skills
+
+* since 2021 Student Assistant
+  * Technische Universität Dresden
+  * tutor in experimental physics for geography students
+  
+  
+IT-Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* LaTeX
+* Programming languages
+  * Python
+  * Fortran
+* Quantum ESPRESSO
 
 Publications
 ======
@@ -48,12 +49,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
